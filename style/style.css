@@ -1,0 +1,55 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px;
+    margin: auto;
+}
+/* index.html */
+.whitespace{
+   padding-left: 400px;
+   padding-right: 400px;
+   
+   
+}
+/* this is header */
+header{
+    border: 2px black solid;
+    padding: 20px;
+}
+header h1{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 35px;
+
+    margin: auto;
+}
+.list li{
+    list-style-type: none;
+    border: 2px black solid;
+    padding:2px;
+    text-decoration: none;
+}
+div .indian,.japanese,.korean{
+    background-color:rgb(255, 255, 255);
+    padding:20px;
+    border: 1px black solid;
+    
+}
+/* how to recipes */
+.whitespace h1{
+    font-size: 33px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+button{
+    float: right;
+}
+p{
+    text-align: justify;
+}
+img{
+    width: 800;
+    height: auto;
+}
